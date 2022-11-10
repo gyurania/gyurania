@@ -26,11 +26,13 @@
 </p>
 
 <br>
+<div align=center> 
 <p align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyurania&show_icons=true&theme=swift)
 
 </p>
+</div>
 
 <!-- ### Hi there 👋 -->
 
